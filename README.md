@@ -41,9 +41,9 @@ Supported operating systems.
 | Caddy            | :x:                 |
 
 # Contributors
-Copyright 2022-2023, [Malthe K](https://github.com/guldkage), me@malthe.cc
+Copyright 2022-2023, [Nueva](https://github.com/Nueeva), nuevacorpinc@gmail.com
 <br>
-Created and maintained by [Malthe K.](https://github.com/guldkage)
+Created and maintained by [Nueva](https://github.com/Nueeva)
 
 # Support
 The script has been tested many times without any bug fixes, however they can still occur.
@@ -53,13 +53,13 @@ If you find errors, feel free to open an "Issue" on GitHub.
 # Interactive/Normal installation
 The recommended way to use this script.
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/Nueeva/Pterodactyl-Installer-2/main/installer.sh)
 ```
 
 ### Raspbian
 Only for raspbian users. They might need a extra < in the beginning.
 ```bash
-bash < <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
+bash < <(curl -s https://raw.githubusercontent.com/Nueeva/Pterodactyl-Installer-2/main/installer.sh)
 ```
 
 # Autoinstall / Developer Installation

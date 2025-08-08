@@ -90,7 +90,7 @@ options() {
         case $REPLY in
             1) bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/refs/heads/main/installers/panel.sh); return ;;
             2) bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/refs/heads/main/installers/wings.sh); return ;;
-            3) bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/refs/heads/main/installers/phpmyadmin.sh); return ;;
+            3) bash <(curl -s https://raw.githubusercontent.com/Nueeva/Pterodactyl-Installer-2/blob/main/installers/phpmyadmin.sh); return ;;
             4) bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/refs/heads/main/installers/remove_phpmyadmin.sh); return ;;
             5) bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/refs/heads/main/installers/remove_wings.sh); return ;;
             6) bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/refs/heads/main/installers/remove_panel.sh); return ;;
